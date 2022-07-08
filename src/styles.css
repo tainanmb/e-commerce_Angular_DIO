@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.book-name{
+    font-weight: bold;
+    font-size: larger;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.book-price{
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(4, 4, 6);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: yellow;
+
+}
