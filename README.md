@@ -1,5 +1,8 @@
 # ECommerce
 
+Desenvolvimento de um e-commerce de livros com Angular e TypeScript. 
+Desafio de Projeto DIO Unimed-BH Fullstack
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
 ## Development server
